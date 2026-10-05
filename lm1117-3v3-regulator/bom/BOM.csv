@@ -1,9 +1,0 @@
-Designator,Qty,Value,Footprint,Manufacturer,MPN,Supplier,Supplier PN,Unit Price (CAD),Ext. Price (CAD),Description
-"C1, C2",2,10 µF 10 V,0805 tantalum (CAPPM2012X120),Kyocera AVX,F921A106MPA,DigiKey,478-11412-1-ND,1.00,2.00,"Tantalum MnO2, 10 µF ±20 %, 10 V, ESR 6 Ω, case P (0805)"
-D1,1,"Red, 631 nm",0805 (LTST-C170KRKT_V),Lite-On Inc.,LTST-C170KRKT,DigiKey,160-1415-1-ND,0.26,0.26,"Chip LED, red, 0805, Vf 1.5–2.4 V @ 20 mA"
-"J1, J2",2,1×2 header,"THT 1×2, 2.54 mm (61300211121)",Würth Elektronik,61300211121,DigiKey,732-5315-ND,0.19,0.38,"WR-PHD pin header, straight, male, 2 pos, 2.54 mm, 3 A"
-R1,1,200 Ω 1 %,0805 (RESC2013X60X30ML20T20),KOA Speer,RK73H2ATTD2000F,DigiKey,2019-RK73H2ATTD2000FCT-ND,0.14,0.14,"Thick film, 200 Ω, ±1 %, 0.25 W, 0805 — divider top (OUT–ADJ)"
-R2,1,324 Ω 1 %,0805 (RESC2013X60X30ML20T20),KOA Speer,RK73H2ATTD3240F,DigiKey,2019-RK73H2ATTD3240FCT-ND,0.14,0.14,"Thick film, 324 Ω, ±1 %, 0.25 W, 0805 — divider bottom (ADJ–GND)"
-R3,1,432 Ω 1 %,0805 (RESC2013X60X30ML20T20),KOA Speer,RK73H2ATTD4320F,DigiKey,2019-RK73H2ATTD4320FCT-ND,0.14,0.14,"Thick film, 432 Ω, ±1 %, 0.25 W, 0805 — LED current limit"
-U1,1,LM1117-ADJ,SOT-223 (DCY0004A_M),Texas Instruments,LM1117MP-ADJ/NOPB,DigiKey,LM1117MP-ADJ/NOPBCT-ND,2.58,2.58,"LDO regulator, adjustable 1.25–13.8 V, 800 mA, SOT-223; tab = V_OUT"
-TOTAL,9,,,,,,,,5.64,
